@@ -1,3 +1,4 @@
+![Power BI Dashboard Preview](Dashboard.png)
 # Customer Shopping Behavior Analytics
 
 An end-to-end data analytics portfolio project analyzing 3,900 retail transactions to uncover revenue drivers, customer segmentation, discount impacts, and subscription trends.
